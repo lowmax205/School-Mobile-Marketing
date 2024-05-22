@@ -1,0 +1,2 @@
+# Project Description:
+Mobile devices have become an essential part of our daily lives, particularly among students who rely on them for communication, education, and entertainment. Understanding the student mobile device usage preferences and trends is crucial for mobile related businesses. This project proposal outlines an analysis for student mobile device preferences with the goal of providing valuable insights for marketing strategies.
